@@ -2,7 +2,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin: 40px;;
     padding: 0%;
-    background:rgb(47, 122, 147);
+    background:rgb(28, 196, 48);
 }
 
 .header{
@@ -17,12 +17,13 @@ body {
 
 footer{
     text-align: center;
-    color: rgb(162, 45, 230);
-    background-color: rgb(231, 169, 36);
+    color: rgb(230, 144, 45);
+    background-color: rgb(145, 19, 190);
     padding: 30px;
     margin: 25px;
     font-size:medium;
     font-family: "Miniver", cursive;
+    border-radius: 8px;
 }
 
 .image-container img {
@@ -43,7 +44,7 @@ fieldset{
 }
 
 h1{
-  color: rgb(255, 255, 255);
+  color: #cf5417;
   font-family: "roboto mono", cursive;
   font-size: xx-large;
   text-align: left;
