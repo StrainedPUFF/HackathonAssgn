@@ -2,7 +2,7 @@ body {
     font-family: 'Times New Roman', Times, serif;
     margin: 40px;;
     padding: 0%;
-    background:rgb(28, 196, 48);
+    background:rgb(196, 182, 28);
 }
 
 .header{
@@ -24,6 +24,7 @@ footer{
     font-size:medium;
     font-family: "Miniver", cursive;
     border-radius: 8px;
+    text-align: center;
 }
 
 .image-container img {
