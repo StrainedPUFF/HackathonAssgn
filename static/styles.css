@@ -1,8 +1,8 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    margin: auto;
+    margin: 40px;;
     padding: 0%;
-    background:rgb(236, 119, 10);
+    background:rgb(47, 122, 147);
 }
 
 .header{
@@ -23,4 +23,28 @@ footer{
     margin: 25px;
     font-size:medium;
     font-family: "Miniver", cursive;
+}
+
+.image-container img {
+  max-width: 90%;
+  border-radius: 12px;
+}
+img{
+  border-radius: 12px;
+  margin: 40px;
+  padding: 40px;
+  margin-left: 20px;
+}
+
+fieldset{
+  background-color: #b76e1a;
+  font-family: "roboto mono", cursive;
+  font-size: 30px;
+}
+
+h1{
+  color: rgb(255, 255, 255);
+  font-family: "roboto mono", cursive;
+  font-size: xx-large;
+  text-align: left;
 }
